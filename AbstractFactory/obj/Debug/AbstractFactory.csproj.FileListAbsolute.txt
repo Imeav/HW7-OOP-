@@ -1,0 +1,14 @@
+K:\Programming\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+K:\Programming\AbstractFactory\bin\Debug\AbstractFactory.exe
+K:\Programming\AbstractFactory\bin\Debug\AbstractFactory.pdb
+K:\Programming\AbstractFactory\obj\Debug\AbstractFactory.csproj.AssemblyReference.cache
+K:\Programming\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+K:\Programming\AbstractFactory\obj\Debug\AbstractFactory.exe
+K:\Programming\AbstractFactory\obj\Debug\AbstractFactory.pdb
+C:\Users\User\Desktop\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\User\Desktop\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\User\Desktop\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\User\Desktop\AbstractFactory\obj\Debug\AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\User\Desktop\AbstractFactory\obj\Debug\AbstractFactory.pdb

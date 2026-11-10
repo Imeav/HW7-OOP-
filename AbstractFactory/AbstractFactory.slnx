@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="AbstractFactory.csproj" />
+  <Project Path="C:/Users/User/Desktop/Builder/Builder.csproj" />
+  <Project Path="C:/Users/User/Desktop/Decorator/Decorator.csproj" />
+  <Project Path="C:/Users/User/Desktop/Facade/Facade.csproj" />
+  <Project Path="C:/Users/User/Desktop/FactoryMethod/FactoryMethod.csproj" />
+  <Project Path="C:/Users/User/Desktop/Mediator/Mediator.csproj" />
+  <Project Path="C:/Users/User/Desktop/PrototypeFigure/PrototypeFigure.csproj" />
+</Solution>
