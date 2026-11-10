@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\PrototypeFigure\bin\Debug\PrototypeFigure.exe.config
+C:\Users\User\Desktop\PrototypeFigure\bin\Debug\PrototypeFigure.exe
+C:\Users\User\Desktop\PrototypeFigure\bin\Debug\PrototypeFigure.pdb
+C:\Users\User\Desktop\PrototypeFigure\obj\Debug\PrototypeFigure.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PrototypeFigure\obj\Debug\PrototypeFigure.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PrototypeFigure\obj\Debug\PrototypeFigure.exe
+C:\Users\User\Desktop\PrototypeFigure\obj\Debug\PrototypeFigure.pdb
